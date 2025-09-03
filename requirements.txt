@@ -1,0 +1,8 @@
+streamlit
+supabase
+postgrest
+gotrue
+storage3
+realtime
+pillow
+pandas
